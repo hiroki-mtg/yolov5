@@ -1,5 +1,5 @@
-train: /opt/ml/input/data/train
-val: /opt/ml/input/data/val
+train: /opt/ml/input/data/train/images
+val: /opt/ml/input/data/val/images
 
 nc: 12
 names: ['pip-1', 'pip-10', 'pip-11', 'pip-12', 'pip-2', 'pip-3', 'pip-4', 'pip-5', 'pip-6', 'pip-7', 'pip-8', 'pip-9']
